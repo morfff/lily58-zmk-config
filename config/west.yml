@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: caksoylar/experimental
+    - name: caksoylar
       url-base: https://github.com/caksoylar
   projects:
     - name: zmk
