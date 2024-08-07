@@ -39,6 +39,8 @@
         // TODO: Consider using the fast config for the thumb so that the mouse and
         // and arrow layers are accessible faster.
         // TODO: Try combos for ESC and TAB: E+R for TAB and U+I for ESC.
+        // TODO: Consider moving arrow keys to a separate layer with a right
+        // space key triggering that layer.
 
         #define FAST_HOLDING_TIME 160
         #define SLOW_HOLDING_TIME 300
